@@ -1,10 +1,54 @@
 [
   {
-    "repository": "android_device_google_gs101",
-    "target_path": "device/google/gs101"
+    "repository": "device_google_gs101",
+    "target_path": "device/google/gs101",
+    "branch": "16.2"
   },
   {
-    "repository": "android_device_google_bluejay-kernels",
-    "target_path": "device/google/bluejay-kernels"
+    "repository": "device_google_bluejay-kernels",
+    "target_path": "device/google/bluejay-kernels",
+    "branch": "16.2"
+  },
+  {
+    "repository": "device_google_gs-common",
+    "target_path": "device/google/gs-common",
+    "branch": "16.2"
+  },
+  {
+    "repository": "proprietary_vendor_google_bluejay",
+    "target_path": "vendor/google/bluejay",
+    "branch": "16.2"
+  },
+  {
+    "repository": "kernel_google_gs-6.1_manifest",
+    "target_path": "kernel/google/gs-6.1/manifest",
+    "branch": "16.2"
+  },
+  {
+    "repository": "kernel_google_gs-6.1_devices",
+    "target_path": "kernel/google/gs-6.1/private/devices",
+    "branch": "16.2"
+  },
+  {
+    "repository": "kernel_google_gs-6.1_google-modules",
+    "target_path": "kernel/google/gs-6.1/private/google-modules",
+    "branch": "16.2"
+  },
+  {
+    "repository": "packages_apps_ViPER4AndroidFX",
+    "target_path": "packages/apps/ViPER4AndroidFX",
+    "branch": "16.2"
+  },
+  {
+    "repository": "crdroidandroid/proprietary_vendor_google_camera",
+    "target_path": "vendor/google/camera",
+    "remote": "gitlab",
+    "branch": "16.0"
+  },
+  {
+    "repository": "crdroidandroid/proprietary_vendor_google_faceunlock",
+    "target_path": "vendor/google/faceunlock",
+    "remote": "gitlab",
+    "branch": "16.0"
   }
 ]
