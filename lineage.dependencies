@@ -45,10 +45,4 @@
     "remote": "gitlab",
     "branch": "16.0"
   },
-  {
-    "repository": "crdroidandroid/proprietary_vendor_google_faceunlock",
-    "target_path": "vendor/google/faceunlock",
-    "remote": "gitlab",
-    "branch": "16.0"
-  }
 ]
